@@ -4,7 +4,7 @@ Projeto Calculated (Em desenvolvimento)
 
 -Projeto focado em criar uma calculadora para desenvolver habilidades com Javascript
 
-<a href="https://proclamus.github.io/Calculated/calculated.html">Pomodoro Project</a>
+<a href="https://proclamus.github.io/Calculated/calculated.html">Projeto Calculated</a>
 
 Projeto PomodoroProject
 
