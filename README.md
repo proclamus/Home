@@ -1,6 +1,12 @@
 ## Welcome to Proclamus Pages
 
-## Calculated (Em desenvolvimento)
+## PomodoroProject
+
+***Projeto criado para ser um portfólio e compartilhar conhecimento sobre tecnologias que estou envolvido.***
+
+Link [RibeiroTeaching](https://proclamus.github.io/ribeiroteaching/))
+
+## Calculated 
 
 ***Projeto focado em criar uma calculadora para desenvolver habilidades com Javascript***
 
