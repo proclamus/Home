@@ -10,7 +10,7 @@ Link [RibeiroTeaching](https://proclamus.github.io/ribeiroteaching/)
 
 ***Projeto criado para desenvolver habilidades com Javascript/HTML/CSS.***
 
-Link [SkinHub](https://JeanLucasBFR.github.io/SkinHub/)
+Link [SkinHub](https://proclamus.github.io/SkinHub/)
 
 ## Calculated 
 
